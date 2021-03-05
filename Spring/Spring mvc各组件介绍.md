@@ -8,6 +8,10 @@ https://blog.csdn.net/weixin_41399873/article/details/104932280
 
 ### 3.Spring MVC中的 listener filter servlet组件分别是什么？
 
+![image-20210305111746926](D:\learn\Notes\Spring\Spring mvc各组件介绍.assets\image-20210305111746926.png)
+
+![image-20210305111802547](D:\learn\Notes\Spring\Spring mvc各组件介绍.assets\image-20210305111802547.png)
+
 ### 4.如何理解spring中的 ApplicationContext接口？
 
 参考: https://www.baeldung.com/spring-application-context#1-message-resolution
