@@ -1,0 +1,3 @@
+ObjectFactory是生成代理对象的
+
+getEarlyBeanRefrence是什么时候调用的？
